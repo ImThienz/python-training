@@ -27,3 +27,5 @@ print(6)
 print("New file test")
 print(1, 2, 3, 4, 5, sep=" % ", end=' ')
 print(6, 7)
+
+print("19:02 Py Part 1")
